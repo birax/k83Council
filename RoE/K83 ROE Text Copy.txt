@@ -5,6 +5,13 @@
 /* when publishing, please update the 'Last Updated:' date on the second line each time
 
 
+/* Put out an announcement to K83 Diplomacy and KC detailing changes
+++++ ROE CHANGES +++
+Hero restrictions for DM and WS have been removed in RoE 2.5
+RoE 1.4 has been reworded (and 1.5 removed)
+Plus a couple of small text corrections
+
+
 
 
 K83 Rules of Engagement (RoE)
