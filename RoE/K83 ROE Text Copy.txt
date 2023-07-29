@@ -1,0 +1,158 @@
+K83 Rules of Engagement (RoE)
+Last Updated: 29th July 2023
+
+
+
+
+Please speak with the Council about any issues or questions you have with the following. They are open to change. (ADD CHAT ‘K83 ROE Chat’)
+* ALL players of K83 should always uphold this RoE
+* Clan leadership is responsible for educating their clan to follow the RoE
+* Players in Computer Generated Clans (CGC) are encouraged to join Human-Made clans
+* Players now have 12 hours to read and understand the new RoE rules
+
+
+
+1 GENERAL RULES
+1.1 K83 is governed by the K83 Council, and titles handed out among clans
+1.2 The Kingdom is at Peace Time apart from the Clash Of Thrones (CoT) first 2 days only (not voting day)
+1.3 Scouts and Attacks on players in human-made clans in the kingdom are illegal outside of War Time, see 3.4-3.7
+1.4 Players found repeatedly violating/abusing the RoE or working with other Kingdoms to bypass the RoE will be subject to a penalty, at the discretion of the K83 Council, and may be outlawed in this kingdom completely
+1.5 Only members of human-made clans, who are not outlaws, have protection under the RoE
+A human-made clan is one which is join by request only, has “We follow the K83 RoE’ in their description, and isn’t an Outlaw clan
+
+
+
+
+
+1.8 Up to six players who are not on the K83 Council can be appointed as members of the K83 Guard. These players will be appointed and can be removed  by Council Decree. The K83 Guard has the authority to investigate and enforce the Rules of Engagement. Outlaw decrees and pardons may only be issued by the K83 Council Chair, Captain of the Guard and K83 Guard
+1.9 Clans will be considered ‘dead’ if they have a founding date of more than 14 days ago, have 10 or fewer members, no borders (just around the capital square) and have a wealth of 0. Permission to remove clan buildings must be sought through a member of the guard, who will then notify the clan Leader. The Leader has 24 hours to request a 7 day extension and prove they are not dead, or permission will be granted by the K83 Council
+
+
+
+
+2 ALL TIMES IN THE KINGDOM, INCLUDING CoT AND KvK
+2.1 CLAN MARCHES AGAINST OTHER PLAYERS ARE ILLEGAL*
+A clan march is defined as any player attacking another K83 player with reinforcements.  Clan marches against portals from other kingdoms, or cities in other kingdoms are permitted
+* Pre-arranged Conquest Point (CP) Runs and Exchanges are permitted, and in fact encouraged, provided proof of prior arrangement can be provided
+2.2 All resources, including gold, tar, silver, food, wood, stone and iron in any form, and portals inside a clan territory belong to that clan and are protected.  Crypts, arenas, citadels and monsters are no resource, and so are not protected and open to everyone
+
+
+
+
+2.3 CLAN BUILDINGS ARE NOT TO BE ATTACKED AT ANY TIME* ATTACKING CLAN BUILDINGS WILL MEAN INSTANT OUTLAW STATUS (Must be proven with a Battle Report).  Attacks on clan buildings, including forts, will be subject to the following penalties, payable to the attacked clan (a battle report must be provided, the offender pays the taxes)
+* Scouting - 1m silver
+* Attack without destroying - 10m silver
+* Attacking and destroying - 10m each of silver, iron, wood, stone
+*Except where permission is granted under 1.9
+Attacks on clan buildings in other Kingdoms are only allowed in retaliation on ours (a Battle Report must be provided), or with the express permission of the K83 Council
+2.4 Resource tiles that are outside of clan territories are owned by the first to get there, and they cannot be kicked off. If you leave that tile, then it is open for others to take
+
+
+
+
+2.5 You may have 1 DM or WS per 24 hours period that is outside of your clans area
+DM must be registered in ‘K83 Gold Reg Only’ and Tar in ‘K83 Tar Reg Only'
+Registration must be the final 2 digits of the X and Y coordinate
+e.g. a DM or WS at K:83 X:404 Y:784 would be registered as 04,84
+Once registered you have 15 minutes to occupy the DM or WS
+You may remove or have removed a player on an DM or WS you have legally registered
+
+
+
+
+
+2.6 Golden Mountains (GM), given as rewards for KvK, can be occupied as follows:
+* Level 5, players of level 64 and under.  These must be registered in ‘K83 Gold Reg Only’ and are limited to 1 mountain at a time
+* Level 10, players level 65 to 125
+* Level 15, Players level 126 and over
+* Levels 20 and 25, reserved for top 100 KvK players, and can be identified with the ‘Brave Warrior’ title
+Clan areas restrictions do not apply for all levels
+Levels 10 and above must be mined using Stror, limiting each player to 1 gold mountain at a time and will not need registering.  Scouting on GMs is permitted to verify Stror is present
+
+
+
+
+2.7 Any player city level 29 or under, found with more than 20,000 (20k) ingots, or city level 30 or over, found with more than 35,000 (35k) ingots, may be attacked by anyone, without warning, to collect said taxes. Tax collecting may take place through portals, including those for events or inside clan territories
+.
+Tax collecting is not permitted in CoT against non-hostile players with Ayrin (3.7) or at all during KvK
+Those collecting taxes need to provide a battle report showing that the offender met the ingot requirement or the attack will be considered illegal
+
+
+
+
+3 PORTALS, PEACE TIME, WAR TIME, KvK
+3.1 Any hostile portals, regardless of status, during War Time or Peace Time may be closed with NO might restrictions by anyone. A hostile portal is a portal that has been used to launch an attack and/or scout. A battle report from the portal must be provided
+3.2 Event Portals (used for Doomsday, Shadow Invasion, etc, excluding The Great Hunt.) are PROTECTED and can remain until they expire (including those at or on a clan’s territory). Event Portals may ONLY be attacked if it becomes hostile as defined in 3.1, or for tax collection from 2.7
+3.3 Portals on a clan’s own territory are to be always PROTECTED from attacks, even if defined as hostile in 3.1
+
+
+
+
+PEACE TIME
+3.4 No scouts or attacks are allowed inside the kingdom during Peace Time, unless pre-arranged (e.g. CP Runs) or permitted elsewhere in the RoE (e.g. tax collections, hostile portals), to help players and the kingdom grow between CoT events. Violations are subject to RoE 4.1 and 4.2 for resolution
+
+
+
+
+WAR TIME - Clash for the Throne (CoT) first 2 days only (not voting day)
+3.5 Might requirements for hitting during CoT event is a 50% Might rule.  The defender cannot be less than 50% of the might of the attacker
+3.6 Any player can hit someone above their level, but there is a 24 hour window where attacks can be returned for the duration of that War Time event, ONLY by that player in retaliation, on a one-to-one basis regardless of might.  All attacks and/or retaliations must stop at the beginning of voting day
+3.7 Cities and portals with Hero Ayrin selected (red-haired water walker) are protected from attacks including tax collection, unless they have been or become hostile within this CoT - with that player attacking within the kingdom or an attack being launched within the kingdom from the portal.  Once deemed hostile, the battle report will be listed in ‘K83 Hostile WW’ and they may then be attacked as any other player for the rest of that CoT only
+
+
+
+
+Clash of Kingdoms (KvK) only
+3.8 The kingdom is at peace, all clans are allied with each other in defence of K83
+3.9 All portals from other kingdoms are considered hostile, to be reported in ‘K83 Defence’ and closed, including by clan march (see 2.1)
+
+
+
+
+4  RoE VIOLATIONS — DO NOT APPROACH THE K83 COUNCIL DIRECTLY
+4.1 Illegal attacks are subject to retaliation or compensation (not both). Silver is generally used to compensate, and it's best to come to a solution BOTH parties agree is fair (See compensation calculator at the end of the ROE)
+4.2 RoE Violations should be resolved between clans and players first
+Compensation for illegal attacks are Calculated using the Compensation Calculator,  https://bit.ly/k83CompCalc
+If players, diplomats, and leaders can not resolve the situation within 24 hours, Post the Battle Report to the ‘K83 Violation Reports’ chat
+Cases beyond 48 hours old will not be reviewed by the Guard, except by their discursion in exceptional circumstance
+Any player reporting a violation who doesn’t respond to the guard within 24 hours of their message will have their claim dismissed
+Outlaw Status will remain in place until the player is pardoned, after compensation is paid or as determined by the K83 Council
+
+
+
+
+5 FINAL AUTHORITY AND DECREES
+5.1 In all matters, the Chair of the Council shall have final ruling on all conflict/clarification, should the K83 Council not be able to agree. Only the Chair and RoE Advisors may issue a Clan level Outlaw Decree or Pardon
+
+
+
+
+6. Kingdom Agreements
+6.1 K88: We have an agreement with K88 for a full non-aggression pact (NAP).  Attacks on K88 are outlawed.  Any attacks by players on K88 should be resolve using the RoE violations process in RoE 4.1 and 4.2
+6.2 K84, K89: We have an agreement with K84 and L89 not to attack each other’s resource tiles (RSS), Dragon Mounds (DM) or Well Springs (WS).  Combined with RoE 2.3 banning the attack on clan buildings, this leaves players cities as the only permitted targets in K84 and K89
+6.3 Any violations of kingdom agreements will owe compensation or result in outlaw status within the kingdom or penalty set by the Court
+
+
+
+	
+Links
+K83 RoE (this):  https://bit.ly/K83ROE 
+K83 Compensation Calculator: https://bit.ly/k83CompCalc 
+K83 Outlaw List: https://bit.ly/K83Outlaws 
+K83 Council https://bit.ly/K83Council 
+K83 Title use https://bit.ly/K83Titles 
+Code of Conduct https://scorewarrior.helpshift.com/a/total-battle/?s=community&f=rules-and-code-of-conduct&l=en&p=all 
+
+
+
+
+Chats to Add
+K83 Violation Chat ** K83 Gold Reg Only ** K83 Tar Reg Only
+K83 ROE Read Only! ** K83 ROE Chat ** K83 Decrees Only
+K83 Violation Reports ** K83 Defence ** K83 Hostile WW
+
+
+
+
+
+** READ ONLY - This chat is READ ONLY **
