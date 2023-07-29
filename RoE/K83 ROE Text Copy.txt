@@ -1,3 +1,12 @@
+/* This is the text copy of the RoE for K83
+/* please post each section below to the K83 ROE Read Only! chat - one message per text block below
+/* if you make large changes, use the !RoE Draft K83! channel to test each block fits in 1 message
+/* coordinate any changes with Birax or LovesLibia, as they will need to update the Web version seen on https://bit.ly/K83ROE
+/* when publishing, please update the 'Last Updated:' date on the second line each time
+
+
+
+
 K83 Rules of Engagement (RoE)
 Last Updated: 29th July 2023
 
@@ -12,6 +21,7 @@ Please speak with the Council about any issues or questions you have with the fo
 
 
 
+
 1 GENERAL RULES
 1.1 K83 is governed by the K83 Council, and titles handed out among clans
 1.2 The Kingdom is at Peace Time apart from the Clash Of Thrones (CoT) first 2 days only (not voting day)
@@ -19,7 +29,6 @@ Please speak with the Council about any issues or questions you have with the fo
 1.4 Players found repeatedly violating/abusing the RoE or working with other Kingdoms to bypass the RoE will be subject to a penalty, at the discretion of the K83 Council, and may be outlawed in this kingdom completely
 1.5 Only members of human-made clans, who are not outlaws, have protection under the RoE
 A human-made clan is one which is join by request only, has “We follow the K83 RoE’ in their description, and isn’t an Outlaw clan
-
 
 
 
@@ -56,7 +65,6 @@ Registration must be the final 2 digits of the X and Y coordinate
 e.g. a DM or WS at K:83 X:404 Y:784 would be registered as 04,84
 Once registered you have 15 minutes to occupy the DM or WS
 You may remove or have removed a player on an DM or WS you have legally registered
-
 
 
 
@@ -150,7 +158,6 @@ Chats to Add
 K83 Violation Chat ** K83 Gold Reg Only ** K83 Tar Reg Only
 K83 ROE Read Only! ** K83 ROE Chat ** K83 Decrees Only
 K83 Violation Reports ** K83 Defence ** K83 Hostile WW
-
 
 
 
