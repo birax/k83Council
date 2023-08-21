@@ -60,7 +60,7 @@ A clan march is defined as any player attacking another K83 player with reinforc
 * Scouting - 1m silver
 * Attack without destroying - 10m silver
 * Attacking and destroying - 10m each of silver, iron, wood, stone
-*Except where permission is granted under 1.9
+*Except where permission is granted under 1.8
 Attacks on clan buildings in other Kingdoms are only allowed in retaliation on ours (a Battle Report must be provided), or with the express permission of the K83 Council
 2.4 Resource tiles that are outside of clan territories are owned by the first to get there, and they cannot be kicked off. If you leave that tile, then it is open for others to take
 
