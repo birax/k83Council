@@ -151,7 +151,7 @@ Outlaw Status will remain in place until the player is pardoned, after compensat
 6. Kingdom Agreements
 6.1 K88: We have an agreement with K88 for a full non-aggression pact (NAP).  Attacks on K88 are outlawed.  Any attacks by players on K88 should be resolve using the RoE violations process in RoE 4.1 and 4.2
 6.2 K84, K89: We have an agreement with K84 and L89 not to attack each other’s resource tiles (RSS), Dragon Mounds (DM) or Well Springs (WS).  Combined with RoE 2.3 banning the attack on clan buildings, this leaves players cities as the only permitted targets in K84 and K89
-6.3 Any violations of kingdom agreements will owe compensation or result in outlaw status within the kingdom or penalty set by the Court
+6.3 Any violations of kingdom agreements will owe compensation or result in outlaw status within the kingdom or penalty set by the Council
 
 
 
