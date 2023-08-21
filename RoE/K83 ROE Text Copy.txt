@@ -41,8 +41,9 @@ A human-made clan is one which is join by request only, has “We follow the K83
 
 
 
-1.8 Up to six players who are not on the K83 Council can be appointed as members of the K83 Guard. These players will be appointed and can be removed  by Council Decree. The K83 Guard has the authority to investigate and enforce the Rules of Engagement. Outlaw decrees and pardons may only be issued by the K83 Council Chair, Captain of the Guard and K83 Guard
-1.9 Clans will be considered ‘dead’ if they have a founding date of more than 14 days ago, have 10 or fewer members, no borders (just around the capital square) and have a wealth of 0. Permission to remove clan buildings must be sought through a member of the guard, who will then notify the clan Leader. The Leader has 24 hours to request a 7 day extension and prove they are not dead, or permission will be granted by the K83 Council
+1.6 All clans must have a listed diplomat, who is a Superior or Leader of that clan, otherwise the Clan Leader will assume that role.  Only the Diplomat or Clan Leader, and the involved parties, will have standing in negotiations with the K83 Guard.  All Diplomats and Clan Leaders MUST join the channel ‘K83 Diplomacy’.
+1.7 Up to six players who are not on the K83 Council can be appointed as members of the K83 Guard. These players will be appointed and can be removed  by Council Decree. The K83 Guard has the authority to investigate and enforce the Rules of Engagement. Outlaw decrees and pardons may only be issued by the K83 Council Chair, Captain of the Guard and K83 Guard
+1.8 Clans will be considered ‘dead’ if they have a founding date of more than 14 days ago, have 10 or fewer members, no borders (just around the capital square) and have a wealth of 0. Permission to remove clan buildings must be sought through a member of the guard, who will then notify the clan Leader. The Leader has 24 hours to request a 7 day extension and prove they are not dead, or permission will be granted by the K83 Council
 
 
 
