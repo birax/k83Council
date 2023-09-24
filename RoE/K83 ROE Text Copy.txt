@@ -41,13 +41,13 @@ A human-made clan is one which is join by request only, has “We follow the K83
 
 
 
-1.6 All clans must have a listed diplomat, who is a Superior or Leader of that clan, otherwise the Clan Leader will assume that role.  Only the Diplomat or Clan Leader, and the involved parties, will have standing in negotiations with the K83 Guard.  All Diplomats and Clan Leaders MUST join the channel ‘K83 Diplomacy’.
-1.7 Up to six players who are not on the K83 Council can be appointed as members of the K83 Guard. These players will be appointed and can be removed  by Council Decree. The K83 Guard has the authority to investigate and enforce the Rules of Engagement. Outlaw decrees and pardons may only be issued by the K83 Council Chair, Captain of the Guard and K83 Guard
+1.6 All clans must have a listed diplomat, who is a Superior or Leader of that clan, otherwise the Clan Leader will assume that role.  Only the Diplomat or Clan Leader, and the involved parties, will have standing in cases with the K83 Court.  All Diplomats and Clan Leaders MUST join the channel ‘K83 Diplomacy’.
+1.7 The K83 Court is made up of 5 Judges who act under the authority of the K83 Council.  Judges are appointed or removed by decree of the K83 Council.  They serve for a term of 2 CoT.  They process and rule on cases as defined in RoE 4.2.
 
 
 
 
-1.8 Clans will be considered ‘dead’ if they have a founding date of more than 14 days ago, have 10 or fewer members, no borders (just around the capital square) and have a wealth of 0. Permission to remove clan buildings must be sought through a member of the guard, who will then notify the clan Leader. The Leader has 24 hours to request a 7 day extension and prove they are not dead, or permission will be granted by the K83 Council
+1.8 Clans will be considered ‘dead’ if they have a founding date of more than 14 days ago, have 10 or fewer members, no borders (just around the capital square) and have a wealth of 0. Permission to remove clan buildings must be sought through the K83 Court.  They will bring it to the K83 Council, who will then check the clan and notify the clan Leader. The Leader has 24 hours to request a 7 day extension and prove they are not dead, or the clan will be declared dead.
 
 
 
@@ -132,12 +132,18 @@ Clash of Kingdoms (KvK) only
 
 4  RoE VIOLATIONS — DO NOT APPROACH THE K83 COUNCIL DIRECTLY
 4.1 Illegal attacks are subject to retaliation or compensation (not both). Silver is generally used to compensate, and it's best to come to a solution BOTH parties agree is fair (See compensation calculator at the end of the ROE)
-4.2 RoE Violations should be resolved between clans and players first
+
+
+
+
+4.2 RoE violations should be resolved between clans and players first.
 Compensation for illegal attacks are Calculated using the Compensation Calculator,  https://bit.ly/k83CompCalc
-If players, diplomats, and leaders can not resolve the situation within 24 hours, Post the Battle Report to the ‘K83 Violation Reports’ chat
-Cases beyond 48 hours old will not be reviewed by the Guard, except by their discursion in exceptional circumstance
-Any player reporting a violation who doesn’t respond to the guard within 24 hours of their message will have their claim dismissed
-Outlaw Status will remain in place until the player is pardoned, after compensation is paid or as determined by the K83 Council
+If players, diplomats, and leaders can not resolve the situation within 24 hours, post the Battle Report to the ‘K83 Court’ chat.
+Cases beyond 48 hours old will not be reviewed by the K83 Court, except in exceptional circumstance agreed between the K83 Court and K83 Council.
+The K83 Court will process cases within 48 hours in ‘K83 Court Chat’.
+Any player reporting a violation who doesn’t respond to the K83 Court within 24 hours of their message will have their claim dismissed.
+Rulings for Outlaw Player, Clan or Dead Clan will be referred to the K83 Council.  Outlaw status will remain in place until the player is pardoned, after compensation is paid or as determined by the K83 Council.
+
 
 
 
@@ -160,6 +166,7 @@ Links
 K83 RoE (this):  https://bit.ly/K83ROE 
 K83 Compensation Calculator: https://bit.ly/k83CompCalc 
 K83 Outlaw List: https://bit.ly/K83Outlaws 
+K83 Court: https://bit.ly/K83Court 
 K83 Council https://bit.ly/K83Council 
 K83 Title use https://bit.ly/K83Titles 
 Code of Conduct https://scorewarrior.helpshift.com/a/total-battle/?s=community&f=rules-and-code-of-conduct&l=en&p=all 
@@ -168,9 +175,9 @@ Code of Conduct https://scorewarrior.helpshift.com/a/total-battle/?s=community&f
 
 
 Chats to Add
-K83 Violation Chat ** K83 Gold Reg Only ** K83 Tar Reg Only
-K83 ROE Read Only! ** K83 ROE Chat ** K83 Decrees Only
-K83 Violation Reports ** K83 Defence ** K83 Hostile WW
+K83 Court          ***    K83 Gold Reg Only    ***    K83 Tar Reg Only
+K83 ROE Read Only! ***    K83 ROE Chat         ***    K83 Decrees Only
+K83 Court Chat     ***    K83 Defence          ***    K83 Hostile WW
 
 
 
